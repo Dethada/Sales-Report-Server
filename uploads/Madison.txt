@@ -1,0 +1,10 @@
+2012-01-01	09:01	Madison	Men's Clothing	16.78	Visa
+2012-01-01	09:07	Madison	Computers	160.9	Visa
+2012-01-01	09:08	Madison	Crafts	337.8	Visa
+2012-01-01	09:24	Madison	Women's Clothing	427.22	Visa
+2012-01-01	09:26	Madison	Computers	188.79	MasterCard
+2012-01-01	09:30	Madison	Consumer Electronics	122.17	Visa
+2012-01-01	09:31	Madison	Computers	202.7	Cash
+2012-01-01	09:41	Madison	Books	397.18	Cash
+2012-01-01	09:41	Madison	Consumer Electronics	388.66	Discover
+2012-01-01	09:45	Madison	CDs	302.82	MasterCard
