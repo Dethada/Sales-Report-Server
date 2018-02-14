@@ -2,7 +2,11 @@
 import socket, sys, os
 from heapq import nlargest, nsmallest
 
-''' Use classes '''
+''' 
+Use classes 
+block multiple upload connections
+update upload handler
+multithreading'''
 
 BUFSIZE = 1024
 ACK = 'k'

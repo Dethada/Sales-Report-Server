@@ -13,9 +13,6 @@ print("Listening on port 8091...")
 def main(connection):
     buf = connection.recv(BUFSIZE)
     rec = buf.decode()
-    # connection.sendall(ACK.encode())
-    # connection.sendall(ACK.encode())
-    # connection.close()
     while True:
         pass
 
