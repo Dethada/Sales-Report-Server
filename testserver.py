@@ -11,8 +11,12 @@ serversocket.listen(1)
 print("Listening on port 8091...")
 
 def main(connection):
+    print('connection recieved')
     buf = connection.recv(BUFSIZE)
     rec = buf.decode()
+    connection.close()
+    return
+    connection.sendall('abc'.encode())
     while True:
         pass
 
